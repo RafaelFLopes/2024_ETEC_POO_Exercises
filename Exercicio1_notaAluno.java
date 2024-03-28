@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercicio1{
+public class Exercicio1_notaAluno{
     public static void main(String[] args) {
         lerNota();
     }

@@ -1,8 +1,6 @@
-package Exercicio2;
-
 import javax.swing.JOptionPane;
 
-public class Exercicio2 {
+public class Exercicio2_maiorMenor {
     public static void main(String[] args) {
         diferenca();
     }

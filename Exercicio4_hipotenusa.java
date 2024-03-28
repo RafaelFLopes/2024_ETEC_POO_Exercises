@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercicio4 {
+public class Exercicio4_hipotenusa {
     public static void main(String[] args) {
         statusHip();
     }

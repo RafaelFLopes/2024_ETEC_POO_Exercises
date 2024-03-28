@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class lampada {
+public class Exercicio3_lampada {
     public static void main(String[] args) {
         mostrarEstado();
     }
