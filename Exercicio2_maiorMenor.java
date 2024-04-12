@@ -19,7 +19,7 @@ public class Exercicio2_maiorMenor {
             resultado = n2 - n1;
             JOptionPane.showMessageDialog(null, "A diferença é de "+ resultado +" números");
         }
-        else { // Se os números forem iguais
+        else { // Se os números forem iguais exibe esta mensagem
             JOptionPane.showMessageDialog(null, "Os dois números são iguais");
         }
     }
